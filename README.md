@@ -1,0 +1,2 @@
+# Bakalaurinis
+Bakalaurinio darbas
